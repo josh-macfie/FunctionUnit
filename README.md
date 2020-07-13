@@ -11,6 +11,7 @@ https://www.amazon.com/Logic-Computer-Design-Fundamentals-Updated/dp/B000OIK23I<
 
 Walk through and other info:</br>
 Video link:</br>
+https://youtu.be/FUZDepvoNtw</br>
 </p>
 Linux Commands to program processor:</br>
 djtgcfg enum</br>
